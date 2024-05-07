@@ -62,7 +62,6 @@ flutter pub get
 ```
 flutter run
 ```
-### Screenshots
 
 ### Screenshots
 
