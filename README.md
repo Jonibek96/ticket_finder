@@ -64,6 +64,9 @@ flutter run
 ```
 ### Screenshots
 
-<img src="assets/home.png" width="200">
+### Screenshots
+
+<img src="assets/home.png" width="200"> | <img src="assets/images/list-pokemon.jpg" width="200">
+<img src="assets/images/details.jpg" width="200"> | <img src="assets/images/search-list.jpg" width="200">
 
 
