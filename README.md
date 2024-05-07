@@ -1,4 +1,4 @@
-# ticket_finder in Flutter
+# ticket_finder
 
 Приложение состоит из:
 1. Меню
@@ -62,4 +62,8 @@ flutter pub get
 ```
 flutter run
 ```
+### Screenshots
+
+<img src="assets/home.png" width="200">
+
 
