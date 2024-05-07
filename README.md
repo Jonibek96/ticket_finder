@@ -1,7 +1,5 @@
 # ticket_finder in Flutter
 
-![pokemon.png](assets/images/pokemon.png)
-
 Приложение состоит из:
 1. Меню
 2. Главная. Первый вход
@@ -40,8 +38,8 @@
 Клонирование репозитория:
 
 ```bash
-git clone https://github.com/Jonibek96/pokemon-flutter.git
-cd pokemon-flutter
+git clone https://github.com/Jonibek96/ticket_finder.git
+cd ticket_finder
 ```
 
 ### Установка зависимостей:
