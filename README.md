@@ -66,6 +66,6 @@ flutter run
 ### Screenshots
 
 <img src="assets/home_screen.png" width="200"> | <img src="assets/search_screen.png" width="200">
-<img src="assets/search_country_screen.png" width="200"> | <img src="assets/filter_screen.png" width="200">
+<img src="assets/search_country_screen.png" width="200"> | <img src="assets/filter_screen.png" width="200"> | <img src="assets/all_ticket_screen.png" width="200">
 
 
